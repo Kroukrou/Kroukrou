@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Kroukrou (Louis Saffaro)
+- 👋 Hi, I’m @Kroukrou
 - 👀 I’m interested in music, marketing, web devolepment, and technics of sounds and video.
-- 🌱 I’m currently learning Python with Django
-- 💞️ I’m looking to collaborate on project fullstack with API
-- 📫 How to reach me => send me a message on my phone 06-50-95-66-00
+- 🌱 I’m currently learning all stuffs that I can learn efficiently and fast 
+- 💞️ I’m looking to collaborate on project fullstack 
 
 <!---
 Kroukrou/Kroukrou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
